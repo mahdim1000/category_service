@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory=\
+ir.asabranding.sat.category.config.SqlTestContainersSpringContextCustomizerFactory
